@@ -345,7 +345,9 @@
     "pinned_footprint_libs": [
       "sata"
     ],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "SATA"
+    ]
   },
   "meta": {
     "filename": "sata-backplane.kicad_pro",
