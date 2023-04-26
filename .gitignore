@@ -28,3 +28,4 @@ tmp
 # Exported BOM files
 *.xml
 *.csv
+!docs/bom.csv
